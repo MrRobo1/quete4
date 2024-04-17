@@ -14,5 +14,5 @@ export class Wilder {
   @prop()
   city: string;
 }
-
+// testtt
 export const WilderModel = getModelForClass(Wilder);
