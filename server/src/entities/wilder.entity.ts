@@ -16,4 +16,5 @@ export class Wilder {
 }
 // testtt
 // fre
+// testststg
 export const WilderModel = getModelForClass(Wilder);
