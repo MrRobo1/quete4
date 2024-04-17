@@ -28,3 +28,16 @@
 2024/04/17 08:25:00 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
 2024/04/17 08:26:04 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
 2024/04/17 08:27:08 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:28:12 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:29:16 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:30:20 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:31:24 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:32:28 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:33:32 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:34:36 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:35:40 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:36:44 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:37:48 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:38:52 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:39:56 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 08:41:00 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
