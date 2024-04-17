@@ -15,4 +15,5 @@ export class Wilder {
   city: string;
 }
 // testtt
+// fre
 export const WilderModel = getModelForClass(Wilder);
